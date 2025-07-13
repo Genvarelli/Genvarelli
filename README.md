@@ -2,11 +2,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Threat Detection & Monitoring HomeLab</b>
-  - [Threat Detection & Monitoring Lab)](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab))
+  - [Threat Detection & Monitoring Lab](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab)
+  - [Cloud-Based: Threat Detection & Monitoring Lab](https://github.com/Genvarelli/Cloud-Based-Threat-Detection-Home-Lab)
 - <b>Wireshark</b>
-  - [Network Analysis)](https://github.com/Genvarelli/Wireshark-Network-Analysis)
+  - [Network Analysis](https://github.com/Genvarelli/Wireshark-Network-Analysis)
 - <b>Python</b>
-  - [Tkinter Data Visualisation Dashboard Demo)](https://github.com/Genvarelli/Data_visualisation_Dashboard)
+  - [Tkinter Data Visualisation Dashboard Demo](https://github.com/Genvarelli/Data_visualisation_Dashboard)
 
 
 <h2> 🤳 Connect with me:</h2>
