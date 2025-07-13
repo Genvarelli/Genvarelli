@@ -6,15 +6,8 @@
 - <b>PowerShell</b>
   - 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Tkinter Data Visualisation Dashboard Demo)](https://github.com/Genvarelli/Data_visualisation_Dashboard)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -23,7 +16,7 @@
 [<img align="left" alt="GenesisVarelli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@Genvarelli
 [instagram]: https://www.instagram.com/GenesisVarelli/
 [linkedin]: https://linkedin.com/in/GenesisVarelli
 
