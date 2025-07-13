@@ -1,9 +1,9 @@
 <h1>Hi, I'm Gen! <br/><a href="https://github.com/genvarelli">SOC Analyst</a>, <a href="https://www.linkedin.com/in/genesisvarelli/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Threat Detection & Monitoring HomeLab</b>
-  - [Threat Detection & Monitoring Lab](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab)
-  - [Cloud-Based: Threat Detection & Monitoring Lab](https://github.com/Genvarelli/Cloud-Based-Threat-Detection-Home-Lab)
+- <b>TThreat Detection & Monitoring Home Lab</b>
+  - [On-Prem Deployment (Self-Hosted)](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab)
+  - [Cloud Deployment (Microsoft Azure Sentinel)](https://github.com/Genvarelli/Cloud-Based-Threat-Detection-Home-Lab)
 - <b>Wireshark</b>
   - [Network Analysis](https://github.com/Genvarelli/Wireshark-Network-Analysis)
 - <b>Python</b>
