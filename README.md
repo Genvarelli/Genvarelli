@@ -11,13 +11,10 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="GenesisVarelli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GenesisVarelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GenesisVarelli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/@Genvarelli
 [instagram]: https://www.instagram.com/GenesisVarelli/
 [linkedin]: https://linkedin.com/in/GenesisVarelli
 
