@@ -5,7 +5,7 @@
   - [On-Prem Deployment (Self-Hosted)](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab)
   - [Cloud Deployment (Microsoft Azure Sentinel)](https://github.com/Genvarelli/Cloud-Based-Threat-Detection-Home-Lab)
 - <b>Linux</b>
-  - [Linux Commands & Practice](https://github.com/Genvarelli/Intro-to-Linux)
+  - [Linux Commands & Practice](https://github.com/Genvarelli/Intro-to-Linux/README.md)
 - <b>Wireshark</b>
   - [Network Analysis](https://github.com/Genvarelli/Wireshark-Network-Analysis)
 - <b>Python</b>
