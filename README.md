@@ -8,5 +8,5 @@ Outside of work, you’ll find me wandering art galleries, diving into YouTube h
 
 #### Fun Facts:
 
-* I don’t like coffee or tea.
-* Demon Slayer is my favorite anime.
+* I don’t like coffee.
+* Naruto is my favorite anime.
