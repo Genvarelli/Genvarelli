@@ -1,4 +1,4 @@
-<h1>Hi, I'm there!</h1>
+<h1>Hi there!</h1>
 
 I’m [**Genesis**](https://genesisvarelli.com/), a Cybersecurity Analyst based in the Netherlands.
 
