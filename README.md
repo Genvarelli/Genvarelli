@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gen! <br/><a href="https://github.com/genvarelli">SOC Analyst</a>, <a href="https://www.linkedin.com/in/genesisvarelli/">Cybersecurity Professional</a>
+<h1>Hi, I'm there!</h1>h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>TThreat Detection & Monitoring Home Lab</b>
