@@ -1,32 +1,13 @@
-<h1>Hi, I'm there!</h1>h1>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm there!</h1>
 
-- <b>TThreat Detection & Monitoring Home Lab</b>
-  - [On-Prem Deployment (Self-Hosted)](https://github.com/Genvarelli/Threat-Detection-Monitoring-Lab)
-  - [Cloud Deployment (Microsoft Azure Sentinel)](https://github.com/Genvarelli/Cloud-Based-Threat-Detection-Home-Lab)
-- <b>Wireshark</b>
-  - [Network Analysis](https://github.com/Genvarelli/Wireshark-Network-Analysis)
-- <b>Python</b>
-  - [Tkinter Data Visualisation Dashboard Demo](https://github.com/Genvarelli/Data_visualisation_Dashboard)
+I’m [**Genesis**](https://genesisvarelli.com/), a Cybersecurity Analyst based in the Netherlands.
 
+Passionate about building efficient, scalable security solutions that empower SOC teams to detect, respond, and stay ahead of threats.
 
-<h2> 🤳 Connect with me:</h2>
+Outside of work, you’ll find me wandering art galleries, diving into YouTube history rabbit holes, or having film nights with friends. 
+I also enjoy creating & sharing tech-related content on social media.
 
-[<img align="left" alt="GenesisVarelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+#### Fun Facts:
 
-[linkedin]: https://linkedin.com/in/GenesisVarelli
-
-<!--
-**Genvarelli/Genvarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I don’t like coffee or tea.
+* Demon Slayer is my favorite anime.
