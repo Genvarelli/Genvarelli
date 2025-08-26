@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I’m [**Genesis**](https://genesisvarelli.com/), a Cybersecurity Analyst based in the Netherlands.
+I’m [**Genesis**](https://genesisvarelli.com/), a Cybersecurity Analyst.
 
 Passionate about building efficient, scalable security solutions that empower SOC teams to detect, respond, and stay ahead of threats.
 
