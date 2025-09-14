@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Gen Phillips</h1>
-<h3 align="center">Cloud Security Engineer and <a href="https://www.youtube.com/"> Content Creator</a></h3>
+<h3 align="center">Cloud Security Engineer</h3>
 
 - 🤺 I currently work on Security Engineering.
 
