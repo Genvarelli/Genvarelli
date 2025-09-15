@@ -3,8 +3,6 @@
 
 I enjoy tackling challenges in cloud, security, and automation, learning through projects and experimentation. Outside of work, you’ll find me exploring art galleries, diving down YouTube rabbit holes, enjoying film nights with friends, or sharing tech-focused content online. 
 
-- 🤺 I currently work on IT Security Engineering at ETG
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/genbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="genbytes" height="30" width="40" /></a>
