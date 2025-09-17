@@ -8,7 +8,7 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
   <!-- AWS Cloud Practitioner -->
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Cloud Practitioner Pending"/>
 <!-- Varnish AI Security Fundamentals -->
-  <img src="https://img.shields.io/badge/Varnish%20AI%20Security%20Fundamentals-Pending-007ACC?logo=vercel&logoColor=white&labelColor=007ACC&color=yellow" alt="Varnish AI Security Fundamentals Pending"/>
+  <img src="https://img.shields.io/badge/Varnish%20AI%20Security%20Fundamentals-2025-007ACC?logo=vercel&logoColor=white&labelColor=007ACC&color=yellow" alt="Varnish AI Security Fundamentals 2025"/>
 <!-- Cisco Cybersecurity Analyst -->
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst 2025"/>
 </p>
