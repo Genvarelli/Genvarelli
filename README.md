@@ -8,7 +8,10 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
   <!-- Neutral / Professional -->
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=lightgrey" alt="AWS Cloud Practitioner Pending"/>
 
-
+<!-- Cisco Cybersecurity Analyst -->
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-Pending-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=lightgrey" alt="Cisco Cybersecurity Analyst Pending"/>
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-Pending-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst Pending"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
