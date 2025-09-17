@@ -5,12 +5,11 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-  <!-- Neutral / Professional -->
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=lightgrey" alt="AWS Cloud Practitioner Pending"/>
+  <!-- AWS Cloud Practitioner -->
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Cloud Practitioner Pending"/>
 
 <!-- Cisco Cybersecurity Analyst -->
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-Pending-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=lightgrey" alt="Cisco Cybersecurity Analyst Pending"/>
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-Pending-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst Pending"/>
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst 2025"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
