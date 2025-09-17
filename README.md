@@ -5,8 +5,13 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Pending"/>
+  <!-- Neutral / Professional -->
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=lightgrey" alt="AWS Cloud Practitioner Pending"/>
+
+  <!-- Highlighted / In Progress -->
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Cloud Practitioner Pending"/>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
