@@ -8,9 +8,6 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
   <!-- Neutral / Professional -->
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=lightgrey" alt="AWS Cloud Practitioner Pending"/>
 
-  <!-- Highlighted / In Progress -->
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Pending-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Cloud Practitioner Pending"/>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
