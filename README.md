@@ -20,7 +20,7 @@ I enjoy tackling challenges in cloud, security, and automation, learning through
 <!-- In Progress Certificates -->
 <p align="left">
   <!-- AWS Cloud Practitioner -->
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Cloud Practitioner In Progress"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-In%20Progress-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Certified Cloud Practitioner In Progress"/>
 </p>
 
 
