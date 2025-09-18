@@ -1,5 +1,5 @@
 <h1>Hi 👋🏽, I'm Gen Phillips</h1>
-<h3>Cloud Security Engineer</h3>
+<h3>Cloud Engineer</h3>
 
 I enjoy tackling challenges in cloud, security, and automation, learning through projects and experimentation. Outside of work, you’ll find me exploring art galleries, diving down YouTube rabbit holes, enjoying film nights with friends, or sharing tech-focused content online. 
 
