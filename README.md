@@ -51,3 +51,4 @@ or sharing tech focused content online.
   </a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,bash,github,git,)](https://skillicons.dev)
