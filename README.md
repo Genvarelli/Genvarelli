@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096C7&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=120&section=header" alt="header"/>
 <h1>Hi 👋🏽, I'm Gen</h1>
 <h3>Cloud Engineer</h3>
 
