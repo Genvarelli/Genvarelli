@@ -29,3 +29,4 @@ or sharing tech focused content online.
   <!-- AWS Cloud Practitioner -->
   <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-In%20Progress-orange?logo=amazon-aws&logoColor=white&labelColor=orange&color=yellow" alt="AWS Certified Cloud Practitioner In Progress"/>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=023E8A&height=100&section=footer" alt="footer"/>
