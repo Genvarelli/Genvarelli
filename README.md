@@ -2,7 +2,7 @@
 <h3>Cloud Engineer</h3>
 
 I enjoy tackling challenges in cloud, security, and automation, learning through projects and experimentation. 
-<br>Outside of work, you’ll find me exploring art galleries, diving down YouTube rabbit holes, enjoying film nights with friends,<br> 
+<br>Outside of work, you’ll find me exploring art galleries, diving down YouTube rabbit holes, enjoying film nights <br>with friends, 
 or sharing tech focused content online. 
 
 <h3 align="left">Certificates:</h3>
