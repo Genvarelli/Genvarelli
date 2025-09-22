@@ -8,7 +8,7 @@ or sharing tech focused content online.
 
 <h3 align="left">Languages and Tools:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,terraform,bash,git,linux,py,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,terraform,bash,github,git,linux,py,html,css)](https://skillicons.dev)
 
 <h3 align="left">Certificates:</h3>
 
