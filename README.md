@@ -3,7 +3,8 @@
 <h3>Cloud Engineer</h3>
 
 I enjoy tackling challenges in cloud, security, and automation, learning through projects and experimentation. 
-<br>Outside of work, you’ll find me somewhere in europe, exploring art galleries, diving down YouTube rabbit holes or enjoying quality time with friends and family. 
+<br>Outside of work, you’ll find me somewhere in europe, exploring art galleries, diving down YouTube rabbit holes <br>
+or enjoying quality time with friends and family. 
 
 <h3 align="left">Languages and Tools:</h3>
 
