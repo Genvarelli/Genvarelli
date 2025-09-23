@@ -17,9 +17,6 @@ or sharing tech focused content online.
   <!-- Linux Foundation LFS101 -->
   <img src="https://img.shields.io/badge/Linux%20Foundation%20LFS101-2025-003366?logo=linux&logoColor=white&labelColor=003366&color=yellow" alt="Linux Foundation LFS101 2025"/>
   
-  <!-- Varnish AI Security Fundamentals -->
-  <img src="https://img.shields.io/badge/Varnish%20AI%20Security%20Fundamentals-2025-007ACC?logo=vercel&logoColor=white&labelColor=007ACC&color=yellow" alt="Varnish AI Security Fundamentals 2025"/>
-  
   <!-- Cisco Cybersecurity Analyst -->
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst 2025"/>
 </p>
