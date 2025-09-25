@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=023E8A&height=100&section=header" alt="header"/>
 <h1>Hi 👋🏽, I'm Genesis</h1>
-<h3>Cloud Engineer</h3>
+<h3>AWS Cloud Engineer</h3>
 
 I enjoy tackling challenges in cloud, security, and automation, learning through projects and experimentation. 
 <br>Outside of work, you’ll find me somewhere in europe, exploring art galleries, diving down YouTube rabbit holes <br>
