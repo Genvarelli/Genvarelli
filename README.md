@@ -24,7 +24,8 @@ or enjoying quality time with friends and family.
   <img src="https://img.shields.io/badge/Proofpoint%20Email%20Auth%20Specialist-2025-0050EF?logo=proofpoint&logoColor=white&labelColor=000000&color=blue" alt="Proofpoint Certified Email Authentication Specialist 2025"/>
 
 <!-- freeCodeCamp Responsive Web Design -->
-<img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-Completed-0a0a23?logo=freecodecamp&logoColor=white&labelColor=0a0a23&color=green" alt="freeCodeCamp Responsive Web Design Certification"/>
+<img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-2023-0a0a23?logo=freecodecamp&logoColor=white&labelColor=0a0a23&color=green" alt="freeCodeCamp Responsive Web Design Certification 2023"/>
+
 </p>
 
 <!-- In Progress Certificates -->
