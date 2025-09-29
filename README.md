@@ -16,19 +16,13 @@ or enjoying quality time with friends and family.
 <p align="left">
 
   <!-- Linux Foundation: LFS101 -->
-  <img src="https://img.shields.io/badge/Linux%20Foundation%20LFS101-2025-003366?logo=linux&logoColor=white&labelColor=003366&color=yellow" alt="Linux Foundation LFS101 - 2025" />
+  <img src="https://img.shields.io/badge/Linux%20Foundation%20LFS101-2025-003366?logo=linux&logoColor=white&labelColor=003366&color=yellow" alt="Linux Foundation LFS101 - Sept 2025" />
+
+   <!-- Cisco: Cybersecurity Analyst -->
+  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst - May 2025" />
   
   <!-- Varonis: AI Security Fundamentals -->
-<img src="https://img.shields.io/badge/Varonis%20AI%20Security%20Fundamentals-2025-ED1C24?logo=varonis&logoColor=white&labelColor=000000&color=red" alt="Varonis AI Security Fundamentals - 2025" />
-
-  <!-- Cisco: Cybersecurity Analyst -->
-  <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst - 2025" />
-
-  <!-- Proofpoint: Email Authentication Specialist -->
-  <img src="https://img.shields.io/badge/Proofpoint%20Email%20Auth%20Specialist-2025-0050EF?logo=proofpoint&logoColor=white&labelColor=000000&color=blue" alt="Proofpoint Certified Email Authentication Specialist - 2025" />
-
-  <!-- freeCodeCamp: Responsive Web Design -->
-  <img src="https://img.shields.io/badge/freeCodeCamp%20Responsive%20Web%20Design-2023-0a0a23?logo=freecodecamp&logoColor=white&labelColor=0a0a23&color=green" alt="freeCodeCamp Responsive Web Design - 2023" />
+<img src="https://img.shields.io/badge/Varonis%20AI%20Security%20Fundamentals-2025-ED1C24?logo=varonis&logoColor=white&labelColor=000000&color=red" alt="Varonis AI Security Fundamentals - Jul 2025" />
 
 </p>
 
