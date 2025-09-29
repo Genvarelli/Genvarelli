@@ -17,6 +17,9 @@ or enjoying quality time with friends and family.
 
   <!-- Linux Foundation: LFS101 -->
   <img src="https://img.shields.io/badge/Linux%20Foundation%20LFS101-2025-003366?logo=linux&logoColor=white&labelColor=003366&color=yellow" alt="Linux Foundation LFS101 - 2025" />
+  
+  <!-- Varonis: AI Security Fundamentals -->
+<img src="https://img.shields.io/badge/Varonis%20AI%20Security%20Fundamentals-2025-ED1C24?logo=varonis&logoColor=white&labelColor=000000&color=red" alt="Varonis AI Security Fundamentals - 2025" />
 
   <!-- Cisco: Cybersecurity Analyst -->
   <img src="https://img.shields.io/badge/Cisco%20Cybersecurity%20Analyst-2025-1BA0D7?logo=cisco&logoColor=white&labelColor=1BA0D7&color=yellow" alt="Cisco Cybersecurity Analyst - 2025" />
